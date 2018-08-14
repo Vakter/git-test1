@@ -1,2 +1,0 @@
-print ("Goodby World")
-print ("Goodby World2")
